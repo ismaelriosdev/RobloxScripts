@@ -1,5 +1,5 @@
 -- Script: IA_NPC
--- Localização: dentro do Model do NPC (junto ao Humanoid e Tool)
+-- Localização: dentro do Model do NPC > ( HumanoidRootPart, Humanoid , Tool , Coins, IA.Script, Drop_Script)
 
 local npc = script.Parent
 local humanoid = npc:WaitForChild("Humanoid")
